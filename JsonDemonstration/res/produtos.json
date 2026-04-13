@@ -1,0 +1,156 @@
+[
+    {
+        "id": 1,
+        "nome": "Teclado Mecanico RGB",
+        "preco": 49.99,
+        "stock": 25,
+        "vendidos": 10
+    },
+    {
+        "id": 2,
+        "nome": "Rato Sem Fios Logitech",
+        "preco": 29.9,
+        "stock": 40,
+        "vendidos": 15
+    },
+    {
+        "id": 3,
+        "nome": "Monitor 24'' Full HD",
+        "preco": 139.9,
+        "stock": 10,
+        "vendidos": 3
+    },
+    {
+        "id": 4,
+        "nome": "Headphones Bluetooth",
+        "preco": 59.99,
+        "stock": 20,
+        "vendidos": 5
+    },
+    {
+        "id": 5,
+        "nome": "Coluna Port\u00c3\u00a1til JBL",
+        "preco": 89.0,
+        "stock": 15,
+        "vendidos": 8
+    },
+    {
+        "id": 6,
+        "nome": "Powerbank 10000mAh",
+        "preco": 22.5,
+        "stock": 50,
+        "vendidos": 12
+    },
+    {
+        "id": 7,
+        "nome": "Cabo USB-C",
+        "preco": 5.99,
+        "stock": 100,
+        "vendidos": 30
+    },
+    {
+        "id": 8,
+        "nome": "Disco SSD 500GB",
+        "preco": 74.9,
+        "stock": 18,
+        "vendidos": 7
+    },
+    {
+        "id": 9,
+        "nome": "Webcam Full HD",
+        "preco": 39.9,
+        "stock": 12,
+        "vendidos": 6
+    },
+    {
+        "id": 10,
+        "nome": "Suporte de Port\u00c3\u00a1til",
+        "preco": 19.99,
+        "stock": 30,
+        "vendidos": 10
+    },
+    {
+        "id": 11,
+        "nome": "Cadeira Gaming",
+        "preco": 149.99,
+        "stock": 8,
+        "vendidos": 4
+    },
+    {
+        "id": 12,
+        "nome": "Tapete Rato XL",
+        "preco": 9.99,
+        "stock": 25,
+        "vendidos": 11
+    },
+    {
+        "id": 13,
+        "nome": "Caixa ATX com LED",
+        "preco": 69.99,
+        "stock": 10,
+        "vendidos": 2
+    },
+    {
+        "id": 14,
+        "nome": "Router Wi-Fi 6",
+        "preco": 99.0,
+        "stock": 6,
+        "vendidos": 1
+    },
+    {
+        "id": 15,
+        "nome": "Smartwatch",
+        "preco": 129.99,
+        "stock": 9,
+        "vendidos": 3
+    },
+    {
+        "id": 16,
+        "nome": "Tablet 10''",
+        "preco": 199.9,
+        "stock": 5,
+        "vendidos": 0
+    },
+    {
+        "id": 17,
+        "nome": "Impressora HP",
+        "preco": 89.99,
+        "stock": 7,
+        "vendidos": 2
+    },
+    {
+        "id": 18,
+        "nome": "Leitor Cartoes SD",
+        "preco": 14.99,
+        "stock": 40,
+        "vendidos": 6
+    },
+    {
+        "id": 19,
+        "nome": "Disco Externo 1TB",
+        "preco": 89.9,
+        "stock": 13,
+        "vendidos": 9
+    },
+    {
+        "id": 20,
+        "nome": "Hub USB 4 portas",
+        "preco": 17.5,
+        "stock": 22,
+        "vendidos": 5
+    },
+    {
+        "id": 100,
+        "nome": "Agua",
+        "preco": 1.0,
+        "stock": 0,
+        "vendidos": 0
+    },
+    {
+        "id": 101,
+        "nome": "Cerveja",
+        "preco": 1.0,
+        "stock": 0,
+        "vendidos": 0
+    }
+]
