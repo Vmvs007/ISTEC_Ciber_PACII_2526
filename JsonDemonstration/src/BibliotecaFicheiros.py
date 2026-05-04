@@ -6,7 +6,6 @@ def readFile(path):
 
     return data
 
-
 def saveFile(path, data):
     with open(path, 'w', encoding='utf-8') as ficheiroGuardado:
         json.dump(data, ficheiroGuardado, indent=4)
