@@ -1,4 +1,4 @@
-from FichaPratica01.Ex08.Produto import Produto
+from FichaPratica02.Ex08.Produto import Produto
 
 produto1 = Produto("Bolachas Água e Sal", 1.5)
 produto2 = Produto("Coca-Cola", 1.25)

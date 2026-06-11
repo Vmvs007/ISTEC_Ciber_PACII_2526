@@ -1,4 +1,4 @@
-from FichaPratica01.Ex03.Retangulo import Retangulo
+from FichaPratica02.Ex03.Retangulo import Retangulo
 
 retangulo1 = Retangulo(10,4,"Amarelo")
 retangulo2 = Retangulo(20,15,"Verde")

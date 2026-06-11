@@ -1,4 +1,4 @@
-from FichaPratica01.Ex01.Pessoa import Pessoa
+from FichaPratica02.Ex01.Pessoa import Pessoa
 
 pessoa1 = Pessoa("Joaquim",22,1.75)
 pessoa2 = Pessoa("João",25,1.8)

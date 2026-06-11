@@ -1,4 +1,4 @@
-from FichaPratica01.Ex04.Circulo import Circulo
+from FichaPratica02.Ex04.Circulo import Circulo
 
 c1 = Circulo("Branco",10)
 
