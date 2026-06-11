@@ -8,4 +8,3 @@ print(f"{edificio1.getNome()} | {edificio1.getRua()} | {edificio1.getCorFachada(
 edificio1.setCorFachada("Amarelo")
 
 print(f"{edificio1.getNome()} | {edificio1.getRua()} | {edificio1.getCorFachada()}")
-print(f"{edificio1.getNome()} | {edificio1.getRua()} | {edificio1.getCorFachada()}")
